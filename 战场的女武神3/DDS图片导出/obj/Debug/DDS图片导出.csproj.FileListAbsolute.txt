@@ -1,0 +1,12 @@
+C:\Users\鑫\documents\visual studio 2012\Projects\战场的女武神3\DDS图片导出\bin\Debug\DDS图片导出.exe
+C:\Users\鑫\documents\visual studio 2012\Projects\战场的女武神3\DDS图片导出\bin\Debug\DDS图片导出.pdb
+C:\Users\鑫\documents\visual studio 2012\Projects\战场的女武神3\DDS图片导出\obj\Debug\DDS图片导出.csprojResolveAssemblyReference.cache
+C:\Users\鑫\documents\visual studio 2012\Projects\战场的女武神3\DDS图片导出\obj\Debug\MainWindow.baml
+C:\Users\鑫\documents\visual studio 2012\Projects\战场的女武神3\DDS图片导出\obj\Debug\MainWindow.g.cs
+C:\Users\鑫\documents\visual studio 2012\Projects\战场的女武神3\DDS图片导出\obj\Debug\App.g.cs
+C:\Users\鑫\documents\visual studio 2012\Projects\战场的女武神3\DDS图片导出\obj\Debug\DDS图片导出_MarkupCompile.cache
+C:\Users\鑫\documents\visual studio 2012\Projects\战场的女武神3\DDS图片导出\obj\Debug\DDS图片导出.g.resources
+C:\Users\鑫\documents\visual studio 2012\Projects\战场的女武神3\DDS图片导出\obj\Debug\DDS图片导出.Properties.Resources.resources
+C:\Users\鑫\documents\visual studio 2012\Projects\战场的女武神3\DDS图片导出\obj\Debug\DDS图片导出.csproj.GenerateResource.Cache
+C:\Users\鑫\documents\visual studio 2012\Projects\战场的女武神3\DDS图片导出\obj\Debug\DDS图片导出.exe
+C:\Users\鑫\documents\visual studio 2012\Projects\战场的女武神3\DDS图片导出\obj\Debug\DDS图片导出.pdb

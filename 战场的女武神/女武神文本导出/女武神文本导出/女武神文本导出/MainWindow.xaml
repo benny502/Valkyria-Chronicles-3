@@ -1,0 +1,42 @@
+﻿<Window x:Class="女武神文本导出.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="女武神文本导出" Height="350" Width="525" AllowDrop="True">
+    <Grid>
+        <TabControl>
+            <TabItem Header="导出">
+                <Grid AllowDrop="True"  DragEnter="Window_DragEnter_1" Drop="Window_Drop_1">
+                    <Label VerticalAlignment="Center" HorizontalAlignment="Center" Content="将文件拖到这里" FontFamily="Microsoft YaHei" FontSize="14" />
+                </Grid>
+            </TabItem>
+            <TabItem Header="导入">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="*" />
+                    </Grid.RowDefinitions>
+                    <GroupBox Header="原文件路径" VerticalAlignment="Top" Margin="15 5">
+                        <GroupBox.Content>
+                            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                                <TextBox x:Name="Source" IsReadOnly="True" Width="300" Margin="15 0" />
+                                <Button Content="..." Click="Button_Click_1" />
+                            </StackPanel>
+                        </GroupBox.Content>
+                    </GroupBox>
+                    <GroupBox Header="码表" Grid.Row="1" Margin="15 0">
+                        <StackPanel Orientation="Horizontal">
+                            <CheckBox x:Name="tblChk"  VerticalAlignment="Center" Content="启用码表" Click="CheckBox_Click_1" />
+                            <TextBox x:Name="tbl" IsReadOnly="True" IsEnabled="False" Width="300" Margin="15 0" />
+                            <Button x:Name="tblBtn" Content="..." Click="Button_Click_2" IsEnabled="False" />
+                        </StackPanel>
+                    </GroupBox>
+                    <GroupBox Header="导入文本" Grid.Row="2"  Margin="15 5" AllowDrop="True" DragEnter="GroupBox_DragEnter_1" Drop="GroupBox_Drop_1">
+                        <Label VerticalAlignment="Center" HorizontalAlignment="Center" Content="将文件拖到这里" FontFamily="Microsoft YaHei" FontSize="14" />
+                    </GroupBox>
+                </Grid>
+            </TabItem>
+        </TabControl>
+
+    </Grid>
+</Window>

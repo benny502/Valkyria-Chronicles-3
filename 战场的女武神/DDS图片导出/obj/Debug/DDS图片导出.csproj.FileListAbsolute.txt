@@ -1,0 +1,12 @@
+E:\F\Game\战场的女武神\DDS图片导出\bin\Debug\DDS图片导出.exe
+E:\F\Game\战场的女武神\DDS图片导出\bin\Debug\DDS图片导出.pdb
+E:\F\Game\战场的女武神\DDS图片导出\obj\Debug\ResolveAssemblyReference.cache
+E:\F\Game\战场的女武神\DDS图片导出\obj\Debug\Window1.baml
+E:\F\Game\战场的女武神\DDS图片导出\obj\Debug\Window1.g.cs
+E:\F\Game\战场的女武神\DDS图片导出\obj\Debug\App.g.cs
+E:\F\Game\战场的女武神\DDS图片导出\obj\Debug\DDS图片导出_MarkupCompile.cache
+E:\F\Game\战场的女武神\DDS图片导出\obj\Debug\DDS图片导出.g.resources
+E:\F\Game\战场的女武神\DDS图片导出\obj\Debug\DDS图片导出.Properties.Resources.resources
+E:\F\Game\战场的女武神\DDS图片导出\obj\Debug\DDS图片导出.csproj.GenerateResource.Cache
+E:\F\Game\战场的女武神\DDS图片导出\obj\Debug\DDS图片导出.exe
+E:\F\Game\战场的女武神\DDS图片导出\obj\Debug\DDS图片导出.pdb

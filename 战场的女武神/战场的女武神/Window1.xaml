@@ -1,0 +1,20 @@
+﻿<Window x:Class="战场的女武神.Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Window1" Height="300" Width="300">
+    <Grid VerticalAlignment="Center">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <StackPanel VerticalAlignment="Center">
+            <TextBlock x:Name="progress" HorizontalAlignment="Center"/>
+            <Button Width="80" Height="30" Content="拆包" Click="Button_Click" />
+            <Button Width="80" Height="30" Content="封包" Click="Button_Click_1" Margin="5" />
+        </StackPanel>
+        <StackPanel Grid.Row="1" Orientation="Horizontal" HorizontalAlignment="Center">
+            <TextBox x:Name="DataCVM" Width="100" Height="20" IsReadOnly="True"/>
+            <Button Content="..." Click="Button_Click_2" />
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "战场的女武神", "战场的女武神\战场的女武神.csproj", "{D7C5C3C9-112E-4E77-A828-4807137FC7C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDS图片导出", "DDS图片导出\DDS图片导出.csproj", "{2F13BAEC-D5C0-4B49-A548-028DAAEDD12C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7C5C3C9-112E-4E77-A828-4807137FC7C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7C5C3C9-112E-4E77-A828-4807137FC7C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7C5C3C9-112E-4E77-A828-4807137FC7C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7C5C3C9-112E-4E77-A828-4807137FC7C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F13BAEC-D5C0-4B49-A548-028DAAEDD12C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F13BAEC-D5C0-4B49-A548-028DAAEDD12C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F13BAEC-D5C0-4B49-A548-028DAAEDD12C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F13BAEC-D5C0-4B49-A548-028DAAEDD12C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

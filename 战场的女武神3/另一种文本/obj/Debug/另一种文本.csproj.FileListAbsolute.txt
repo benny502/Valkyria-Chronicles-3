@@ -1,0 +1,12 @@
+C:\Users\鑫\documents\visual studio 2012\Projects\战场的女武神3\另一种文本\bin\Debug\另一种文本.exe
+C:\Users\鑫\documents\visual studio 2012\Projects\战场的女武神3\另一种文本\bin\Debug\另一种文本.pdb
+C:\Users\鑫\documents\visual studio 2012\Projects\战场的女武神3\另一种文本\obj\Debug\另一种文本.csprojResolveAssemblyReference.cache
+C:\Users\鑫\documents\visual studio 2012\Projects\战场的女武神3\另一种文本\obj\Debug\MainWindow.baml
+C:\Users\鑫\documents\visual studio 2012\Projects\战场的女武神3\另一种文本\obj\Debug\MainWindow.g.cs
+C:\Users\鑫\documents\visual studio 2012\Projects\战场的女武神3\另一种文本\obj\Debug\App.g.cs
+C:\Users\鑫\documents\visual studio 2012\Projects\战场的女武神3\另一种文本\obj\Debug\另一种文本_MarkupCompile.cache
+C:\Users\鑫\documents\visual studio 2012\Projects\战场的女武神3\另一种文本\obj\Debug\另一种文本.g.resources
+C:\Users\鑫\documents\visual studio 2012\Projects\战场的女武神3\另一种文本\obj\Debug\另一种文本.Properties.Resources.resources
+C:\Users\鑫\documents\visual studio 2012\Projects\战场的女武神3\另一种文本\obj\Debug\另一种文本.csproj.GenerateResource.Cache
+C:\Users\鑫\documents\visual studio 2012\Projects\战场的女武神3\另一种文本\obj\Debug\另一种文本.exe
+C:\Users\鑫\documents\visual studio 2012\Projects\战场的女武神3\另一种文本\obj\Debug\另一种文本.pdb

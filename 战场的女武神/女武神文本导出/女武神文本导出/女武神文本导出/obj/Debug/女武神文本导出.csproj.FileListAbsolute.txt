@@ -1,0 +1,13 @@
+G:\F\Game\战场的女武神\女武神文本导出\女武神文本导出\女武神文本导出\bin\Debug\女武神文本导出.exe.config
+G:\F\Game\战场的女武神\女武神文本导出\女武神文本导出\女武神文本导出\bin\Debug\女武神文本导出.exe
+G:\F\Game\战场的女武神\女武神文本导出\女武神文本导出\女武神文本导出\bin\Debug\女武神文本导出.pdb
+G:\F\Game\战场的女武神\女武神文本导出\女武神文本导出\女武神文本导出\obj\Debug\MainWindow.baml
+G:\F\Game\战场的女武神\女武神文本导出\女武神文本导出\女武神文本导出\obj\Debug\MainWindow.g.cs
+G:\F\Game\战场的女武神\女武神文本导出\女武神文本导出\女武神文本导出\obj\Debug\App.g.cs
+G:\F\Game\战场的女武神\女武神文本导出\女武神文本导出\女武神文本导出\obj\Debug\女武神文本导出_MarkupCompile.cache
+G:\F\Game\战场的女武神\女武神文本导出\女武神文本导出\女武神文本导出\obj\Debug\女武神文本导出.g.resources
+G:\F\Game\战场的女武神\女武神文本导出\女武神文本导出\女武神文本导出\obj\Debug\女武神文本导出.Properties.Resources.resources
+G:\F\Game\战场的女武神\女武神文本导出\女武神文本导出\女武神文本导出\obj\Debug\女武神文本导出.csproj.GenerateResource.Cache
+G:\F\Game\战场的女武神\女武神文本导出\女武神文本导出\女武神文本导出\obj\Debug\女武神文本导出.exe
+G:\F\Game\战场的女武神\女武神文本导出\女武神文本导出\女武神文本导出\obj\Debug\女武神文本导出.pdb
+G:\F\Game\战场的女武神\女武神文本导出\女武神文本导出\女武神文本导出\obj\Debug\女武神文本导出.csprojResolveAssemblyReference.cache
